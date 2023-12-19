@@ -8,7 +8,7 @@
     }
   },
   "styles": {
-    "Dark Matter": {
+    "dark-matter": {
       "style": "style.json"
     }
   },

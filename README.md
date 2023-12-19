@@ -23,3 +23,5 @@ Here's how you would use this style with [tileserver-gl](https://github.com/mapt
 5) Serve tiles:
     - With docker: `docker run --rm -it -v $(pwd):/data -p 8080:8080 maptiler/tileserver-gl`
 6) Check out your new tiles: http://localhost:8080
+
+You can now configure Adversity to fetch tiles from http://localhost:8080/styles/dark-matter
