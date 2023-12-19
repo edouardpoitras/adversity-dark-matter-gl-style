@@ -1,0 +1,20 @@
+{
+  "options": {
+    "paths": {
+      "root": "",
+      "fonts": "fonts",
+      "styles": "",
+      "mbtiles": ""
+    }
+  },
+  "styles": {
+    "Dark Matter": {
+      "style": "style.json"
+    }
+  },
+  "data": {
+    "adversity": {
+      "mbtiles": "tiles.mbtiles"
+    }
+  }
+}
