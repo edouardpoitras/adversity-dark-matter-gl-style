@@ -4,7 +4,7 @@
       "root": "",
       "fonts": "fonts",
       "styles": "",
-      "mbtiles": ""
+      "mbtiles": "/mbtiles"
     }
   },
   "styles": {
